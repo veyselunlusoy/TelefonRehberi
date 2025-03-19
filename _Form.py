@@ -18,7 +18,7 @@ class FormWindow(QMainWindow):
 
 
     def kaydet (self):
-        print('kaydedildi')
+        print('kaydedildixx')
 
     def temizle (self):
         self.adSoyad.clear()
