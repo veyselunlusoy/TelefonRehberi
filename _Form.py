@@ -32,6 +32,7 @@ class FormWindow(QMainWindow):
         #   imput teksatırsa text(), çoksatırlı alan okunacaksa toPlainText(), spinlerde value(), combo boxlarda currentText()
             baglanti.commit()
             self.temiz()
+            self.Listele()
             self.adSoyad.setFocus()
             QMessageBox.information(self, 'Bildirim','Kayıt Başarılı')
 
