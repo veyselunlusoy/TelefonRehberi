@@ -160,7 +160,7 @@
      <string>KAYDET</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="BtnTemizle">
+   <widget class="QPushButton" name="BtnListele">
     <property name="geometry">
      <rect>
       <x>180</x>
