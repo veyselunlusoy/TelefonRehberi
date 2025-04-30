@@ -4,4 +4,4 @@ from  _Form import FormWindow
 uygulama = QApplication([])
 pencere = FormWindow()
 pencere.show()
-uygulama.exec_()
+uygulama.exec_() #one driver için oluşturuldu
